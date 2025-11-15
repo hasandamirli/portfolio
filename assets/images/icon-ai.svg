@@ -1,0 +1,16 @@
+<svg width="512" height="512" viewBox="0 0 64 64" xmlns="http://www.w3.org/2000/svg">
+<g fill="#FFDB6E">
+<circle cx="32" cy="6" r="2"></circle>
+<circle cx="48" cy="12" r="2"></circle>
+<circle cx="58" cy="26" r="2"></circle>
+<circle cx="48" cy="40" r="2"></circle>
+<circle cx="32" cy="50" r="2"></circle>
+<circle cx="16" cy="40" r="2"></circle>
+<circle cx="6" cy="26" r="2"></circle>
+<circle cx="16" cy="12" r="2"></circle>
+<path d="M32 10C22.6 10 15 17.6 15 27c0 5.4 2.7 9.7 5.7 12.7C21.9 41 22.5 42 22.5 43.5V46h19v-2.5c0-1.5.6-2.5 1.8-3.8 3-3 5.7-7.3 5.7-12.7 0-9.4-7.6-17-17-17z"></path>
+<rect x="24" y="46" width="16" height="4" rx="1"></rect>
+<rect x="26" y="50" width="12" height="3" rx="1"></rect>
+<text x="32" y="28" text-anchor="middle" font-family="Arial" font-size="12" font-weight="bold" fill="#FFDB6E">AI</text>
+</g>
+</svg>
